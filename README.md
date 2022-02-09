@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pravalika chunarkar</h1>
 <h3 align="center">Savvy Data Analyst</h3>
 
+
+<img align = "right" width = "450" src = "https://xylomeet.com/wp-content/uploads/2020/06/meet-for-finance.gif">
+
 - 🔭 I’m currently working on **Data Science and Statistical Inferences**
 
 - 🌱 I’m currently learning **Advance Machine Learning**
